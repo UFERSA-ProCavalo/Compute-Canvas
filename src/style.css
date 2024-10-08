@@ -1,0 +1,23 @@
+.menu {
+    width: 50px;
+    float: left;
+}
+
+.graph-viewer {
+    margin-left: 60px;
+    margin-right: 200px;
+}
+
+.transition-table {
+    width: 200px;
+    float: right;
+}
+
+.input-section {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background: #f0f0f0;
+    padding: 10px;
+    box-shadow: 0 -2px 5px rgba(0,0,0,0.1);
+}
